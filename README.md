@@ -1,1 +1,1 @@
-# CS50-projects
+A python course called curso em video.
